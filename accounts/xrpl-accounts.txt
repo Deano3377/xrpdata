@@ -1,0 +1,409 @@
+{"name":"1Token","account":"rfTvTCd9GkfxpMS5oksYVjdGZpSpXRgnbt","domain":"1token.trade"}
+{"name":"50x","account":"rQhNdbQpKL1rgrFKCyrqS6Er4nvu7dwWgi","domain":"50x.com","twitter":"50x_com","verified":true}
+{"name":"58 COIN","account":"rKSU67YATC7hJ8Y3CU4GKPBDhQYS2sQ5hG","domain":"58coin.com","twitter":"58_coin","verified":true}
+{"name":"6X","account":"rPTRsvXTFfXiqoXsAj9nzNkyspUnosDNHi","domain":"6x.com","verified":true}
+{"name":"ABCC","account":"rPR82pZSV8xKWukAkvaoKKVn2W9eNBN97s","domain":"abcc.com","twitter":"ABCC_Exchange","verified":true}
+{"name":"Advanced Cash","account":"rMUThT2aBLHfNMSW92aHMaLUzgJVWomh26","domain":"advcash.com","twitter":"advcash","verified":true}
+{"name":"AEX","account":"rNdxqV8iU2eomFm186YkWUvNzoR9iyyEkR","domain":"bit.cc","twitter":"Bitcc_","verified":true}
+{"name":"ALFAcashier","account":"rExFpwNwwrmFWbX81AqbHJYkq8W6ZoeWE6","domain":"alfacashier.com","twitter":"ALFAcashier","verified":true}
+{"name":"AllCash","desc":"1","account":"rnbuX9HEa7Z7qRjXPrgHd19jmtrxEmdRki","domain":"all.cash","twitter":"allcash_off","verified":true}
+{"name":"AllCash","desc":"2","account":"rad3siFMs4gNSmhHJBLYJcJ2tcSvaZdAK5","domain":"all.cash","twitter":"allcash_off"}
+{"name":"AllCash","desc":"3","account":"rsPBRYjSjKYGBRs7vpxzLiVxukjwaSakAR","domain":"all.cash","twitter":"allcash_off","verified":true}
+{"name":"AllCash","desc":"4","account":"rEebB7L18K63mKhce7iBcDNE4XWWV27akK","domain":"all.cash","twitter":"allcash_off"}
+{"name":"AllCash","desc":"5","account":"rnGtKpAzqv137Gk9P8zVPiZ3mvpPpsWodW","domain":"all.cash","twitter":"allcash_off"}
+{"name":"Allcoins.pw","account":"rwAbhddKrbrBAhx9LUrKEZeABkVS6Lq2BF","domain":"allcoins.pw","twitter":"AllcoinsP"}
+{"name":"Allvor","account":"raEQc5krJ2rUXyi6fgmUAf63oAXmF7p6jp","domain":"allvor.org","twitter":"AllvorCurrency","verified":true}
+{"name":"AlphaEx","account":"rhfzdZgZPTSqGVW41cwdfG4uudEhMwnd22","domain":"alphaex.net","twitter":"AlphaExNet","verified":true}
+{"name":"Alterdice","account":"rdaSLGsDPV9YrtV5qe24isgXc4rwzr7dv","domain":"alterdice.com","twitter":"_alterdice","verified":true}
+{"name":"altilly","desc":"1","account":"r3qscwrKLXLVdDSqQV1MRb6nsSDpgwFEXX","domain":"altilly.com","twitter":"altillycom","verified":true}
+{"name":"altilly","desc":"2","account":"rn1hETny8bTQ6itNbB7sUAsPFVgU72bjNq","domain":"altilly.com","twitter":"altillycom"}
+{"name":"Artis Turba","account":"rUZm6JF53B6QPPHCQG6J3GY6QekZqi5Gif","domain":"artisturba.com","twitter":"ArtisTurba","verified":true}
+{"name":"Arwèn","account":"rPPnHiX69sHhYb9HE8BgZgcrCXbvk9baby","domain":"arwensophia.nl","verified":true}
+{"name":"B2BX","account":"rh1Qs81SBNLXzg1hQppVH53FDqfoE9NZFd","domain":"b2bx.exchange","twitter":"b2bx_exchange","verified":true}
+{"name":"BankCEX","account":"rpt26nftBYauVeeK9483WdaAUBpgWcN1LH","domain":"bankcex.com","twitter":"BankCexExchange","verified":true}
+{"name":"Bankcomat","account":"r9UBpAtJFWRQbNbCXWjtV74HT8FA7nKwAr","domain":"bankcomat.org","verified":true}
+{"name":"Blue Helix","desc":"BHEX","account":"rNWLvz9K5bgNcLwUDPAKgnmfopZx3zSvg3","domain":"bhex.com","twitter":"BHEXOfficial","verified":true}
+{"name":"Bibox","desc":"1","account":"rHZQVErv6UZTtkM4NVexS1Z5dTvuek2RbX","domain":"bibox.com","twitter":"Bibox365","verified":true}
+{"name":"Bibox","desc":"2","account":"rK3oET2H12t9a5fw766wE6pKuZMvKb3Y3n","domain":"bibox.com","twitter":"Bibox365"}
+{"name":"Biccos","desc":"1","account":"rh8GCypNXC3PwDHKWkwTYwuS3usd5mQiJ4","domain":"biccos.com","twitter":"biccosmx"}
+{"name":"Biccos","desc":"2","account":"rBnVQ2Db7TvB9AUQG3NFoioFE4qMcP6sEU","domain":"biccos.com","twitter":"biccosmx","verified":true}
+{"name":"BigONE","account":"ra8F9swTXUhBUCjjDUdWX8XiqNzFjrN2CW","domain":"big.one","twitter":"BigONEexchange","verified":true}
+{"name":"Biido","account":"raTuDcvwMebUwvJMrxAB64QCcNvxWeY9nv","domain":"biido.id","twitter":"Biidoid","verified":true}
+{"name":"Biki","account":"r9hCYQF3WeENSu3KE2vjHXVzmw6B4CNbnX","domain":"biki.com","twitter":"bikicoin","verified":true}
+{"name":"Bimax","desc":"1","account":"rLAwn4fTgmnQHJrRXb7g846TtF9AwCUZ2D","domain":"bimax.io"}
+{"name":"Bimax","desc":"2","account":"rpXKcavHhGV9wpDwiricBTJE6hPuhKQqtT","domain":"bimax.io","verified":true}
+{"name":"Binance","desc":"1","account":"rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh","domain":"binance.com","twitter":"binance","verified":true}
+{"name":"Binance","desc":"2","account":"rJb5KsHsDHF1YS5B5DU6QCkH5NsPaKQTcy","domain":"binance.com","twitter":"binance"}
+{"name":"Binance","desc":"3","account":"rEy8TFcrAPvhpKrwyrscNYyqBGUkE9hKaJ","domain":"binance.com","twitter":"binance"}
+{"name":"Birake","account":"rpD8gWASkS8p2ZnEFMpNZR1i9u71tsisz3","domain":"trade.birake.com","twitter":"birakecom","verified":true}
+{"name":"bitbank","desc":"1","account":"rLbKbPyuvs4wc1h13BEPHgbFGsRXMeFGL6","domain":"bitbank.cc","twitter":"bitbank_inc"}
+{"name":"bitbank","desc":"2","account":"rw7m3CtVHwGSdhFjV4MyJozmZJv3DYQnsA","domain":"bitbank.cc","twitter":"bitbank_inc"}
+{"name":"bitbank","desc":"3","account":"rwggnsfxvCmDb3YP9Hs1TaGvrPR7ngrn7Z","domain":"bitbank.cc","twitter":"bitbank_inc"}
+{"name":"BitBay","account":"r9HwsqBnAUN4nF6nDqxd4sgP8DrDnDcZP3","domain":"bitbay.net","twitter":"BitBay","verified":true}
+{"name":"Bitbns","account":"r4VaPEKo4XoU27bCREgsTdbfKrKwNxJ1Cm","domain":"bitbns.com","twitter":"bitbns","verified":true}
+{"name":"Bitcoin mjenjačnica","account":"r6mh8tojcosU4WQg2R8Ggp38Y4ovWYkVA","domain":"bitcoin-mjenjacnica.hr","verified":true}
+{"name":"Bitexlive","account":"raGgLEtVHPrSgkL2YY6VQN2hGxDQd5QpEB","domain":"bitexlive.com","twitter":"bitexlive","verified":true}
+{"name":"BITEXBOOK","account":"rNQsy5WZCVnmedd4CATjCJUMcVVESZXJLS","domain":"bitexbook.com","twitter":"bitexbook","verified":true}
+{"name":"Bitfinex","desc":"1","account":"rLW9gnQo7BQhU6igk5keqYnH3TVrCxGRzm","domain":"bitfinex.com","twitter":"bitfinex"}
+{"name":"Bitfinex","desc":"2","account":"rE3hWEGquaixF2XwirNbA1ds4m55LxNZPk","domain":"bitfinex.com","twitter":"bitfinex"}
+{"name":"BitForex","account":"rPSJ1TdurLDkgiptGUgvGii72tWto2cQBA","domain":"bitforex.com","twitter":"bitforexcom","verified":true}
+{"name":"BitGo","desc":"Custody","account":"rD4G6gtD2KwHqsRf7pcyA8r1neUzXT61ix","domain":"bitgo.com","twitter":"BitGo"}
+{"name":"Bithomp","account":"rhUYLd2aUiUVYkBZYwTc5RYgCAbNHAwkeZ","domain":"bithomp.com","twitter":"bithomp"}
+{"name":"Bithomp","desc":"ID","account":"rBithompKtixswR4bknJqYaxnm7yRhGYFq","domain":"bithomp.com","twitter":"bithomp","verified":true}
+{"name":"Bithumb","desc":"1","account":"rPMM1dRp7taeRkbT74Smx2a25kTAHdr4N5","domain":"bithumb.com","twitter":"BithumbOfficial"}
+{"name":"Bithumb","desc":"2","account":"rNTkgxs5WG5mU5Sz26YoDVrHim5Y5ohC7","domain":"bithumb.com","twitter":"BithumbOfficial","verified":true}
+{"name":"Bithumb","desc":"3","account":"rD7XQw67JWBXuo2WPX2gZRsGKNsDUGTbx5","domain":"bithumb.com","twitter":"BithumbOfficial"}
+{"name":"Bitinka","account":"rGDDcePmKQHx51UKPYQJWhq3YCnqNyrzG2","domain":"bitinka.com","twitter":"bitinka","verified":true}
+{"name":"BITKER","desc":"1","account":"rWKvxVJJdBUpM3wW68Ah1Ene4P7UvwymH","domain":"bitker.com","twitter":"Bitker1","verified":true}
+{"name":"BITKER","desc":"2","account":"rLd6nVZbTy6FE9Dfh5MmJWWFaR65CgFcfs","domain":"bitker.com","twitter":"Bitker1"}
+{"name":"Bitladon","account":"rDgP14awuo2bGhmdMRbBaJRp1dVMM1pCvK","domain":"bitladon.com","twitter":"bitladon","verified":true}
+{"name":"Bitlish","account":"rBJYrEtydZHnvrJuTXLZweMEECgw6b8PEz","domain":"bitlish.com","twitter":"bitlish_com","verified":true}
+{"name":"BitMarket","desc":"1","account":"rD27FeV6FivcWwpSwdRjEXduBXytnn72Mx","domain":"bitmarket.net","twitter":"BitmarketNet","verified":true}
+{"name":"BitMarket","desc":"2","account":"rGKvkZrEczFrVPvFqEkfUW1pjcRimN4uWL","domain":"bitmarket.net","twitter":"BitmarketNet"}
+{"name":"BitMarket","desc":"Cold","account":"rHBaA51ytgay6J93kWWhsYWMCDLyymtd46","domain":"bitmarket.net","twitter":"BitmarketNet"}
+{"name":"BitMart","account":"rEpNmrCTsxnNnE9BYEcHB94QM4KiRdDepy","domain":"bitmart.com","twitter":"BitMartExchange","verified":true}
+{"name":"BitMax","account":"rpinhtY4p35bPmVXPbfWRUtZ1w1K1gYShB","domain":"bitmax.io","twitter":"BitMax_Official","verified":true}
+{"name":"BitMesh","desc":"1","account":"r3R49PvebowowBJYZvWiDXfMnMnJ7VHx5g","domain":"bitmesh.com","twitter":"BitMeshOfficial","verified":true}
+{"name":"BitMesh","desc":"2","account":"rEj46A83qoqQXddgiKdFbL1pBss9p8um6z","domain":"bitmesh.com","twitter":"BitMeshOfficial"}
+{"name":"BitNaru","desc":"1","account":"rntpaurz3rg1DjKsrPsWnppv63RvB17MQz","domain":"bitnaru.com","twitter":"Bitnaruofficial"}
+{"name":"BitNaru","desc":"2","account":"rNQgk5fncvu3Zre1MXp6ZUZSGGnhMESvbf","domain":"bitnaru.com","twitter":"Bitnaruofficial","verified":true}
+{"name":"Bitnovo","account":"rLVoKJ8UMHntdq3oBD4dGUKf7aMAE8SjFa","domain":"bitnovo.com","twitter":"bitnovo","verified":true}
+{"name":"BitoPro","desc":"1","account":"rPHYZy1UMQ3LyWednTdyhRpBKSFwRB72qZ","domain":"bitopro.com","twitter":"BitoEX_Official"}
+{"name":"BitoPro","desc":"2","account":"rJvBpqnsi3VGFnoJLjK9HysEzXn8ykYZ2w","domain":"bitopro.com","twitter":"BitoEX_Official","verified":true}
+{"name":"Bitpanda","desc":"1","account":"rUEfYyerfok6Yo38tTTTZKeRefNh9iB1Bd","domain":"bitpanda.com","twitter":"bitpanda"}
+{"name":"Bitpanda","desc":"2","account":"rhVWrjB9EGDeK4zuJ1x2KXSjjSpsDQSaU6","domain":"bitpanda.com","twitter":"bitpanda","verified":true}
+{"name":"BITPoint APEC","account":"rwCvyTm1Geb3xjB5sDZcg7gKWzQDBzwXYV","domain":"www.bitpoint-apec.com","twitter":"BITPointJP","verified":true}
+{"name":"Bitrota","account":"r3TUjts6GFTbdZ3wnCv1DbiQUGF9xrH5EP","domain":"bitrota.com","twitter":"bitrota","verified":true}
+{"name":"Bitrue","account":"raLPjTYeGezfdb6crXZzcC8RkLBEwbBHJ5","domain":"www.bitrue.com","twitter":"BitrueOfficial","verified":true}
+{"name":"Bitrue","desc":"Cold","account":"rNrFVnR47ZinYNBGtrbk8Xcgp2FHkGfDYi","domain":"www.bitrue.com","twitter":"BitrueOfficial"}
+{"name":"Bitsane","account":"rGTFFFJB3iPJEitfTrZeht7Dr4VAnjQ9m","domain":"bitsane.com","twitter":"bitsane_com","verified":true}
+{"name":"Bitsdaq","account":"rNh4YSHxzuPb3QhcV7EWime6Jc5C8YcRYH","domain":"bitsdaq.com","twitter":"BitsdaqExchange","verified":true}
+{"name":"Bitsler","account":"rsekGH9p9neiPxym2TMJhqaCzHFuokenTU","domain":"bitsler.com","twitter":"BitSler","verified":true}
+{"name":"Bitso","desc":"1","account":"rfEu1Wnr7LxStoFx8DBdzgr8M16FBUbH3K","domain":"bitso.com","twitter":"bitso"}
+{"name":"Bitso","desc":"2","account":"rLSn6Z3T8uCxbcd1oxwfGQN1Fdn5CyGujK","domain":"bitso.com","twitter":"bitso","verified":true}
+{"name":"Bitstamp","desc":"1","account":"rDsbeomae4FXwgQTJp9Rs64Qg9vDiTCdBv","domain":"bitstamp.net","twitter":"Bitstamp","verified":true}
+{"name":"Bitstamp","desc":"2","account":"rUobSiUpYH2S97Mgb4E7b7HuzQj2uzZ3aD","domain":"bitstamp.net","twitter":"Bitstamp"}
+{"name":"Bitstamp","desc":"Hot","account":"rGFuMiw48HdbnrUbkRYuitXTmfrDBNTCnX","domain":"bitstamp.net","twitter":"Bitstamp","verified":true}
+{"name":"Bittrex","account":"rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy","domain":"bittrex.com","twitter":"BittrexExchange","verified":true}
+{"name":"Bitvo","desc":"1","account":"rUR1aPYTUxmCqSxkpRHUTqUTPVDY2z1MG1","domain":"bitvo.com","twitter":"BitvoExchange","verified":true}
+{"name":"Bitvo","desc":"2","account":"rKQ9PxEpCH6pQKATbC6xC6asfwiMfUxyAc","domain":"bitvo.com","twitter":"BitvoExchange"}
+{"name":"Bitvolo","desc":"test","account":"rKmcNCNmMduaz9NeR6ifQ3TjyqfYfUJS58","domain":"bitvolo.com","twitter":"bitvolo","verified":true}
+{"name":"Bit-Z","desc":"1","account":"rs8ec9v3tvpEVFNXyRZXxVPpYnFJCAvr2C","domain":"bit-z.com","twitter":"BitZ_Group"}
+{"name":"Bit-Z","desc":"2","account":"rGtW6G759bNNS72QKazhuVoEY16rPot9EG","domain":"bit-z.com","twitter":"BitZ_Group","verified":true}
+{"name":"Bitzon","account":"rnHf7TFhZdBBKay5rLoKFmysk1GvxgK21a","domain":"bitzon.com","twitter":"BitzonExchange","verified":true}
+{"name":"Blocktrade","desc":"1","account":"rLgKr79aQWaiRNzEoMDbvT57E6UPQ3d7HS","domain":"blocktrade.com","twitter":"Blocktradecom"}
+{"name":"Blocktrade","desc":"2","account":"rEMcmYrJ7yYFyXptmzTQQpXRas1uGDu7Vc","domain":"blocktrade.com","twitter":"Blocktradecom","verified":true}
+{"name":"BTC-Alpha","account":"rKSQCwRuHqL8GgRtutBGnEmhaAxpUaQA1V","domain":"btc-alpha.com","twitter":"btcalpha","verified":true}
+{"name":"BTCEXA","desc":"1","account":"rQG4ZpBaeGjmTTCMJf6NGGS74p3Epkar7Z","domain":"btcexa.com","twitter":"BTCEXA_Official"}
+{"name":"BTCEXA","desc":"2","account":"rL7SppLcU9oDRUxKRoLhz1DtTbQZbVM9nS","domain":"btcexa.com","twitter":"BTCEXA_Official"}
+{"name":"BTCexchange","account":"r3S9W2pYZj7vBueA8scxdJBSEVU2wjMedB","domain":"btcexchange.com","twitter":"_BTCexchange_","verified":true}
+{"name":"BTC Trade UA","account":"rpd6t1Z7o4ME2jgzhfBjYUwhpEcBnZufGG","domain":"btc-trade.com.ua","twitter":"btc_trade_ua","verified":true}
+{"name":"BTC Markets","desc":"1","account":"r94JFtstbXmyG21h3RHKcNfkAHxAQ6HSGC","domain":"btcmarkets.net","twitter":"BTCMarkets"}
+{"name":"BTC Markets","desc":"2","account":"rL3ggCUKaiR1iywkGW6PACbn3Y8g5edWiY","domain":"btcmarkets.net","twitter":"BTCMarkets"}
+{"name":"BTC Markets","desc":"3","account":"rU7xJs7QmjbiyxpEozNYUFQxaRD5kueY7z","domain":"btcmarkets.net","twitter":"BTCMarkets","verified":true}
+{"name":"BtcTurk","desc":"1","account":"rNEygqkMv4Vnj8M2eWnYT1TDnV1Sc1X5SN","domain":"btcturk.com","twitter":"btcturk"}
+{"name":"BtcTurk","desc":"2","account":"rGmmsmyspyPsuBT4L5pLvAqTjxYqaFq4U5","domain":"btcturk.com","twitter":"btcturk"}
+{"name":"BW","desc":"1","account":"r4hYwnBsNH764iTfhRSopu4M3Ct5gMkCGD","domain":"bw.com","twitter":"BW_COM_Exchange","verified":true}
+{"name":"BX.in.th","account":"rp7Fq2NQVRJxQJvUZ4o8ZzsTSocvgYoBbs","domain":"bx.in.th","twitter":"BitcoinThai"}
+{"name":"C2CX","account":"r3UAzAd2KWqoHFF8GXwohfrSYgf3BrbmHD","domain":"c2cx.com","twitter":"C2CXE","verified":true}
+{"name":"Catex","account":"rp953pKrFqc8NLa2z5dqcpgh6z4ZdBskPp","domain":"catex.io","twitter":"catexofficial","verified":true}
+{"name":"CBANX","account":"rQ3fpcjYAptbLQ88VdiAkQ8VwJJYeYtyKa","domain":"cbanx.com","twitter":"CbanxOfficial","verified":true}
+{"name":"Celsius Network","desc":"1","account":"rH9gMu9GrwpCJV8EqcYs92FQvh8D77sDXk","domain":"celsius.network","twitter":"CelsiusNetwork"}
+{"name":"Celsius Network","desc":"2","account":"rMBvfycdzba3Ven9UGG5mrEtG5SNDZR3vf","domain":"celsius.network","twitter":"CelsiusNetwork"}
+{"name":"Celsius Network","desc":"3","account":"rNJ4rRvx8AL7KBRCAxJjhqfUGZMtL5eDpV","domain":"celsius.network","twitter":"CelsiusNetwork"}
+{"name":"CEX.IO","account":"rE1sdh25BJQ3qFwngiTBwaq3zPGGYcrjp1","domain":"cex.io","twitter":"cex_io","verified":true}
+{"name":"CGCX","desc":"1","account":"rD35Zo9dWuyB2vJb6VK3YGjtfXs82JMxAj","domain":"cgcx.io","twitter":"CGCXofficial"}
+{"name":"CGCX","desc":"2","account":"rnRwp62YsKMtiQy4d494NHr6bF4zWdwbDQ","domain":"cgcx.io","twitter":"CGCXofficial"}
+{"name":"ChainEX","account":"rKCAwydpMNguTqMhoLM8THMkC9Ujp8PtY8","domain":"chainex.io","twitter":"ChainEXIO","verified":true}
+{"name":"Changelly","account":"rPujGTiw6nKmMvAiUT6UjpFxT9QrDn9kJP","domain":"changelly.com","twitter":"changelly_team"}
+{"name":"ChangeNOW","account":"r9Be4diPqgUcdPNPvzY1rFTTATLFhFeKSF","domain":"changenow.io","twitter":"ChangeNOW_io","verified":true}
+{"name":"COBINHOOD","account":"rJNgiY6shrnWav6Sv2nmsyzNJoKzBGg6X8","domain":"cobinhood.com","twitter":"COBINHOOD","verified":true}
+{"name":"CODEX","desc":"1","account":"r9QrNnxjwDbvX2b4UwmZojtXh9i3eLrYK9","domain":"codex.one","twitter":"CODEX_Exchange","verified":true}
+{"name":"Codius Hosts","account":"rHAyWHuM66Q4FbHT6iHdEHqVXqmTmXQKHa","domain":"codiushosts.com","twitter":"codiushosts"}
+{"name":"Coinbase","desc":"1","account":"rLNaPoKeeBjZe2qs6x52yVPZpZ8td4dc6w","domain":"coinbase.com","twitter":"coinbase","verified":true}
+{"name":"Coinbase","desc":"2","account":"rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg","domain":"coinbase.com","twitter":"coinbase","verified":true}
+{"name":"Coinbe","desc":"1","account":"rNA8ctDXygrUUESSeZCkwUG8jKhmYX4uD1","domain":"coinbe.net","twitter":"Coinbe_net","verified":true}
+{"name":"Coinbe","desc":"2","account":"rDVUNNucFu2PNzkNr2BBiRaaDtpCbjuCkF","domain":"coinbe.net","twitter":"Coinbe_net"}
+{"name":"CoinBene","account":"r9CcrhpV7kMcTu1SosKaY8Pq9g5XiiHLvS","domain":"coinbene.com","twitter":"coinbene","verified":true}
+{"name":"Coincheck","desc":"1","account":"rNQEMJA4PsoSrZRn9J6RajAYhcDzzhf8ok","domain":"coincheck.com","twitter":"coincheckjp"}
+{"name":"Coincheck","desc":"2","account":"rwgvfze315jjAAxT2TyyDqAPzL68HpAp6v","domain":"coincheck.com","twitter":"coincheckjp"}
+{"name":"CoinDCX","account":"raSLkv529QyqKAPLK1z3mDsNa8a6RLt2ok","domain":"coindcx.com","twitter":"coindcx","verified":true}
+{"name":"Coindelta","account":"r9QA3mVFQ7V4CE8uGVaeGGDGgeAFc8rsPF","domain":"coindelta.com","twitter":"coindelta_","verified":true}
+{"name":"Coindirect","account":"rPz9MAKN1k6h1rXYBfCS88j6muLgppJu1i","domain":"coindirect.com","twitter":"coindirectcom","verified":true}
+{"name":"CoinEx","account":"rDt7d2bf2CSKzTFug2etkhbr8yQjbZtLE7","domain":"coinex.com","twitter":"coinexcom","verified":true}
+{"name":"CoinFalcon","account":"r9kEw2Q5taewopSVpdagECb9QbEMayRxe4","domain":"coinfalcon.com","twitter":"coinfalcon","verified":true}
+{"name":"CoinField","account":"rK7D3QnTrYdkp1fGKKzHFNXZpqN8dUCfaf","domain":"coinfield.com","twitter":"coinfieldEX"}
+{"name":"CoinFlux","desc":"1","account":"raHDzTKRoed9Zy1k82PcFTjTEVe9qfvkMd","domain":"coinflux.com","twitter":"CoinFlux"}
+{"name":"CoinFlux","desc":"2","account":"rLww8GQYbZuzWt47AhwQDVmrzuo5peg1hs","domain":"coinflux.com","twitter":"CoinFlux"}
+{"name":"CoinGate","account":"rPyFs5kpbiiawSdP9JGdaYM33zfUUah1TY","domain":"coingate.com","twitter":"CoinGatecom","verified":true}
+{"name":"Coinhako","desc":"1","account":"rDCWkSuwrXPffeX2YgSuV7uRgDfUwi9PVi","domain":"coinhako.com","twitter":"coinhako","verified":true}
+{"name":"Coinhako","desc":"2","account":"r4ep6pSY9JhMhLHGFb5GtVabzS1KvihiZP","domain":"coinhako.com","twitter":"coinhako"}
+{"name":"CoinHe","account":"rU3UP3xcTn76GQfxV93gBguvQqa7vd41BT","domain":"coinhe.io","twitter":"Coinheglobal","verified":true}
+{"name":"CoinSwitch","account":"rMvo4VQoutQm3P1eMXghcXrTdHNxxUTU3X","domain":"coinswitch.co","twitter":"coinswitch","verified":true}
+{"name":"CoinJar","account":"rPvKH3CoiKnne5wAYphhsWgqAEMf1tRAE7","domain":"coinjar.com","twitter":"getcoinjar","verified":true}
+{"name":"Coinmate","account":"rpWfoKdTix79eKWHHkPT8TqbA2bTBk9GLc","domain":"coinmate.io","twitter":"CoinmateBT","verified":true}
+{"name":"CoinMex","account":"rftJisbPUda6vDmzvGQES4e5Qbc5BvZuFh","domain":"coinmex.com","twitter":"CoinMex_OS","verified":true}
+{"name":"Coinmotion","account":"rLrbZMJDdL8eQd7HsW314bCtvE16LTLYkM","domain":"coinmotion.com","twitter":"Coinmotion","verified":true}
+{"name":"Coinome","desc":"1","account":"rNaDaYdJDa1bsWHnEm1dZd9Yc6Vs1KHRTE","domain":"coinome.com","twitter":"CoinomeOfficial","verified":true}
+{"name":"Coinome","desc":"2","account":"rUqimim3skp7X3kjmg4Ev1UvsjZrGJ6s1c","domain":"coinome.com","twitter":"CoinomeOfficial"}
+{"name":"Coinone","desc":"1","account":"rp2diYfVtpbgEMyaoWnuaWgFCAkqCAEg28","domain":"coinone.co.kr","twitter":"coinone_info"}
+{"name":"Coinone","desc":"2","account":"rPsmHDMkheWZvbAkTA8A9bVnUdadPn7XBK","domain":"coinone.co.kr","twitter":"coinone_info"}
+{"name":"CoinPayments","account":"rCoinaUERUrXb1aA7dJu8qRcmvPNiKS3d","domain":"coinpayments.net","twitter":"CoinPaymentsNET","verified":true}
+{"name":"CoinPlug","account":"rp1FYC5ggnv2eRPF86Z3ywKacxvAceS3kg","domain":"cpdax.com","twitter":"cpdax","verified":true}
+{"name":"CoinsBank","account":"rhvXPd5koNrifWhwhReKJvapd2ihbCewE3","domain":"coinsbank.com","twitter":"CoinsBank","verified":true}
+{"name":"CoinSmart","desc":"1","account":"rNoGCWqvtXSjZ2FTSVRb144HZVB2LYZWKt","domain":"coinsmart.com","twitter":"coinsmartca","verified":true}
+{"name":"CoinSmart","desc":"2","account":"rBsHpScdJrctoiYEtzs6oEc4Vw44by44bV","domain":"coinsmart.com","twitter":"coinsmartca"}
+{"name":"Coins.ph","account":"rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA","domain":"coins.ph","twitter":"coinsph"}
+{"name":"Coinsuper","desc":"1","account":"r33A7DdKzxenN7dNowJhXDhpr5y5H8CnBT","domain":"coinsuper.com","twitter":"Coinsuper_OFCL","verified":true}
+{"name":"Coinsuper","desc":"2","account":"rhSxhgzMUhvk8iRg4m9XHbcHWgNDR89Cv7","domain":"coinsuper.com","twitter":"Coinsuper_OFCL"}
+{"name":"CoinTiger","account":"rsbKKCAQZPa3Xxqz4GuPBSsZh59ZEZ6VMf","domain":"cointiger.com","twitter":"CoinTigerEX","verified":true}
+{"name":"Coinvest Plus","desc":"1","account":"rBNtMHAP8u9UkbkRb1JDiPE8TjHKhehSxZ","domain":"plus.coinve.st","twitter":"CoinvestHQ","verified":true}
+{"name":"Coinvest Plus","desc":"2","account":"rPL7xQ4eDhT3ZMJWeQnDATe2Jb8F4QPYpC","domain":"plus.coinve.st","twitter":"CoinvestHQ"}
+{"name":"CoinZark","account":"rPutbNse6NJpmeevTyhVbtx29BwCE12D8Z","domain":"coinzark.com","twitter":"coinzark","verified":true}
+{"name":"COINZEUS","desc":"1","account":"rsbyjybmsd86vUDhQAhmnjfQ8PfyttLSLs","domain":"coinzeus.io","verified":true}
+{"name":"COINZEUS","desc":"2","account":"rhTzkEApLxTir1igxuuYoaVQ3k12yH3hwp","domain":"coinzeus.io"}
+{"name":"COINZEUS","desc":"3","account":"rp1kF6QwzqJ7ZgKyMRyVm2jvPtyGLbctmt","domain":"coinzeus.io"}
+{"name":"coinzo","account":"rDQGVYCKC3StBmJV6my9uL1Dn9q7TzEGqS","domain":"coinzo.com","twitter":"coinzocom","verified":true}
+{"name":"Computing for Good","desc":"Giveaway","account":"rNKXT1p7jpt5WxSRSzmUV6ZB6kY7jdqHmx","domain":"computingforgood.org","twitter":"RippleLabs"}
+{"name":"COSS","desc":"1","account":"rHW5SNb4JUaedGuVc2MoHUFUmX4kXEws9p","domain":"coss.io","twitter":"cosscrypto","verified":true}
+{"name":"COSS","desc":"2","account":"rpTgBeQcJUHzCWgdyLYS57h2WUSUqW4A7W","domain":"coss.io","twitter":"cosscrypto"}
+{"name":"CredoEx","desc":"BitBounce","account":"rGFvYGUfS44hm4sSSibjb8UAo6VkK4m54A","domain":"credoex.com","twitter":"bitbounceio","verified":true}
+{"name":"Crex 24","account":"rLZh28YgxC712oPJYjYvU6Wa8146ycxkBM","domain":"crex24.com","twitter":"Crex_24","verified":true}
+{"name":"CryptoBridge","desc":"DEX","account":"rGgP9356daGzSYeRpnbATakrHc3ejAxuaP","domain":"crypto-bridge.org","twitter":"CryptoBridge","verified":true}
+{"name":"Crypto Facilities","account":"rEUjyMcESk42uLPYJdJtg4AN8d2zuqPWeu","domain":"cryptofacilities.com","twitter":"CryptoFLtd"}
+{"name":"Crypto Harbor","account":"rHTiH3epXBaAfGZCubsWEVSc2ku96xSKVG","domain":"crypto-harbor.com","twitter":"CryptoHarborPJ","verified":true}
+{"name":"Cryptokart","account":"rhEjZdaSyepzbT5d8JerB6vdRu42ti7Sh6","domain":"cryptokart.io","twitter":"crypto_kart","verified":true}
+{"name":"Cryptology","desc":"1","account":"rh9R3XsHVsKGU9RE2JKwoi3eyKUWWvMZeb","domain":"cryptology.com","twitter":"Cryptologyexch","verified":true}
+{"name":"Cryptology","desc":"2","account":"rKPsKrX1LWyDGqARPwzq36pcRo8sMNUNvV","domain":"cryptology.com","twitter":"Cryptologyexch","verified":true}
+{"name":"Cryptonator","account":"r9LFPRCT4jRHqeHcgiRGjGMHWkA76nE4Fb","domain":"cryptonator.com","twitter":"cryptonatorcom"}
+{"name":"Cryptosa","account":"r3QdQboXNKc5ahNMVd2EJ2mH2nAtaLLC7o","domain":"cryptosa.com","twitter":"CryptosaGlobal","verified":true}
+{"name":"Cryptsy","account":"rJGW69cMpaSqNwjhWjvtkRwhvm9yNfnNpN","domain":"cryptsy.com","twitter":"cryptsy"}
+{"name":"CyberBTC","account":"r4FhxAcdu5UPiFY5FSYtrEKigHdcSysRdu","domain":"cyberbtc.com","twitter":"CyberBTC_com","verified":true}
+{"name":"Darb Finance","account":"rhQPTmLNSFSaaAJnJUvdt3m1DS8XRw42qm","domain":"darbfinance.com","twitter":"FinanceDarb","verified":true}
+{"name":"DCEX","desc":"1","account":"r9W22DnkmktvdSdsdWS5CXJAxfWVRtbDD9","domain":"dcex.com","twitter":"dcexofficial"}
+{"name":"DCEX","desc":"2","account":"rHXvKUCTzsu2CB8Y5tydaG7B2ABc4CCBYz","domain":"dcex.com","twitter":"dcexofficial","verified":true}
+{"name":"Dcoin","account":"rLW9fNRyv6pxz6Skr8BsCP7PEWNG3vUvLT","domain":"dcoin.com","twitter":"dcoinexchange","verified":true}
+{"name":"DeCurret","desc":"1","account":"rfhpLiK85o7JTooxTgwzGheHqnEB9Q7Brt","domain":"decurret.com","twitter":"DeCurret"}
+{"name":"DeCurret","desc":"2","account":"rhSArgLVVhmQ9Qw2vGJ294YrpyZjpKhNVW","domain":"decurret.com","twitter":"DeCurret"}
+{"name":"DeCurret","desc":"3","account":"rLnZnFRVKsxRVbXmF8CYHgj8VA5mhRASq2","domain":"decurret.com","twitter":"DeCurret"}
+{"name":"DeCurret","desc":"4","account":"rswHhsqEiSoxQ4ZMh2DGNJGueiR23mkf37","domain":"decurret.com","twitter":"DeCurret"}
+{"name":"DigiFinex","account":"rnG2XVwdULE5mfWA5EFxnyTkUGgg2K39AP","domain":"digifinex.com","twitter":"digifinex","verified":true}
+{"name":"Dipbit","account":"rMqP6R2nku9UiDfVzYMkpKzrEqiWUsT5m6","domain":"dipbit.com","twitter":"dipbit_fly","verified":true}
+{"name":"Donocle","account":"rHNJTYYVKCgySmF6F8AYSRX2f9q7Vq5Yid","domain":"donocle.io","twitter":"Donocle1","verified":true}
+{"name":"DragonEx","account":"rhCaNjw1B7m1aupE5Xtdn5V87bDmeeEuvD","domain":"dragonex.io","twitter":"Dragonex_io","verified":true}
+{"name":"DuckDice","account":"rHaEgsbEC1uq6spFjoonirz98yaDeokhzU","domain":"duckdice.io","twitter":"duckdiceio","verified":true}
+{"name":"DX.Exchange","account":"r9U6UPU2S2aWC7uiKPjiyV37evWwPVqdTj","domain":"dx.exchange","twitter":"DXdotExchange"}
+{"name":"Einstein Exchange","desc":"1","account":"rhaTm3xhTCc1bxE9XTVrQfbASRGp4JGUUk","domain":"einstein.exchange","twitter":"EinsteinXchange"}
+{"name":"Einstein Exchange","desc":"2","account":"rHgQvW5yVURn2zN816frxwEhamLHYPdvEV","domain":"einstein.exchange","twitter":"EinsteinXchange","verified":true}
+{"name":"EO.Trade","desc":"1","account":"rwHq5GijQSui8Zis7ndRDXpMnReeyHVyHo","domain":"eo.trade","twitter":"EOFinance","verified":true}
+{"name":"EO.Trade","desc":"2","account":"rwWiEd4Ckzb1QL9XKz1CoJNQBRj4eTRxAC","domain":"eo.trade","twitter":"EOFinance","verified":true}
+{"name":"Eobot","account":"rB1za2ZVgDnNB7u8LbVN61k5nCByBUtXCA","domain":"eobot.com","twitter":"eobot","verified":true}
+{"name":"Epiphany","account":"rDJzXjDkd3fd9ffKj44xFbsH5JLLA7gMVn","domain":"epnex.io","twitter":"EPNex","verified":true}
+{"name":"eToro","account":"rsdvR9WZzKszBogBJrpLPE64WWyEW4ffzS","domain":"etoro.com","twitter":"eToro","verified":true}
+{"name":"eToroX","account":"rp8fRQLGwiBBMeFwLzoBnjkMntLTGLAU68","domain":"etorox.com","twitter":"eTorox","verified":true}
+{"name":"EX.LAND","account":"rw5z4hdpz6qUyjGXSZwfyAVZHK7r3hsbPz","domain":"ex.land","verified":true}
+{"name":"Exchanging.ir","account":"rUZYENzyiiNXtfmV6AWjmpVYEP2uDbfof","domain":"exchanging.cc","twitter":"ExchangingCC","verified":true}
+{"name":"EXMO","desc":"1","account":"rUocf1ixKzTuEe34kmVhRvGqNCofY1NJzV","domain":"exmo.com","twitter":"Exmo_com","verified":true}
+{"name":"EXMO","desc":"2","account":"rUCjhpLHCcuwL1oyQfzPVeWHsjZHaZS6t2","domain":"exmo.com","twitter":"Exmo_com"}
+{"name":"EXMO","desc":"3","account":"rsTv5cJK2EMJhYqUUni4sYBonVk7KqTxZg","domain":"exmo.com","twitter":"Exmo_com"}
+{"name":"EXMO","desc":"4","account":"rLJPjRYGDVVEjv4VrJtouzqzyJ51YtdZKY","domain":"exmo.com","twitter":"Exmo_com"}
+{"name":"ExNow","desc":"1","account":"rhrGpcMWUHQ6b72aMDKQrtVw2NVHA4N9D7","domain":"exnow.com","twitter":"ExNowSupport","verified":true}
+{"name":"ExNow","desc":"2","account":"rU7J615QqkReejNCxPCR2qwRtMu3B2C174","domain":"exnow.com","twitter":"ExNowSupport"}
+{"name":"Exrates","account":"rpTxdXAm6AcW8S6ewpGeccKaMXcppz7kVZ","domain":"exrates.me","twitter":"Exrates_Me","verified":true}
+{"name":"ezBtc","account":"r4matobr1Rpz2f3PTtFfEXpGrTMyD8Spxs","domain":"ezbtc.ca","twitter":"ezBtcCanada","verified":true}
+{"name":"FatBTC","account":"rsVrxrWo3xreoBLQweUchD3pABS6eYHeKu","domain":"fatbtc.com","twitter":"fatbtc","verified":true}
+{"name":"FCoin","desc":"1","account":"rHzyKrq1AnCFTEv1yvmpcEhh5KJjttsEN8","domain":"fcoin.com","twitter":"FCoinOfficial","verified":true}
+{"name":"FCoin","desc":"2","account":"rMvzCkoF4QNYAAKS7Jc9KuFe2L5F5yQA67","domain":"fcoin.com","twitter":"FCoinOfficial"}
+{"name":"Felixo","desc":"1","account":"rhpPGJ88DGZkKoiioSycA2iedkx2BmvPav","domain":"felixo.com","twitter":"felixoexchange"}
+{"name":"Felixo","desc":"2","account":"rpJFnqJG9rK8acGFYAM5DbRLqKWvbw4idV","domain":"felixo.com","twitter":"felixoexchange"}
+{"name":"FlashFX","desc":"1","account":"rKUGYSfeGBZEurkJYtpr1N4yzn3KZ42oFm","domain":"flash-fx.com","twitter":"fxflash"}
+{"name":"FlashFX","desc":"2","account":"rKXMpSMHuu36eEpGoJcdeBmwfkoy9pewAJ","domain":"flash-fx.com","twitter":"fxflash"}
+{"name":"FlashFX","desc":"3","account":"rBtiyfuSCQrcAKevnvfNUJVmaGx856ZVkk","domain":"flash-fx.com","twitter":"fxflash"}
+{"name":"Freewallet","desc":"1","account":"rMDjpzA1CfeXKtrgP1nommxaVDqJV1wfcX","domain":"freewallet.org","twitter":"freewalletorg"}
+{"name":"Freewallet","desc":"2","account":"rGT84ryubURwFMmiJChRbWUg9iQY18VGuQ","domain":"freewallet.org","twitter":"freewalletorg","verified":true}
+{"name":"Funding","desc":"xrpl-labs.com","account":"rwiEtsEY8YRxgHQgvWXsxyUBSZzTMqL2EX","domain":"xrpl-labs.com","twitter":"XRPLLabs"}
+{"name":"Gate","account":"rHcFoo6a9qT5NHiVn1THQRhsEGcxtYCV4d","domain":"gate.io","twitter":"gate_io","verified":true}
+{"name":"GDAC","account":"rfD4oqVbGNEkrtkWS39Epo1t5DH42KMSwp","domain":"gdac.com","twitter":"official_gdac","verified":true}
+{"name":"GloBee","desc":"1","account":"rfF9CCnrYitv8dKonkqDqqcHLCPJ9JPvA","domain":"globee.com","twitter":"GlobeeCom","verified":true}
+{"name":"GloBee","desc":"2","account":"rw2sz65R1ZRaPWKVytJSdHg6nCfuSBRWSq","domain":"globee.com","twitter":"GlobeeCom"}
+{"name":"Gobaba","account":"rJdhqjuPKNvYb82CGYdhXrEAfkqbeRzaBY","domain":"gobaba.com","twitter":"GobabaExchange","verified":true}
+{"name":"GOEX","account":"rJWmcHHjFJatBEQd3R6B6rE3WvSpxCiTpP","domain":"goex.pro"}
+{"name":"GOPAX","account":"rwSdwXsQVCjYXUyempsGxk1Sgws6perYZL","domain":"gopax.com","twitter":"GOPAX_kr","verified":true}
+{"name":"Grand Capital","account":"rD9cfNHkLDaFMQobzHjACJUSWZDKZFj2fs","domain":"grandcapital.net","twitter":"GrandCapitalEng","verified":true}
+{"name":"HitBTC","desc":"1","account":"r4eEbLKZGbVSBHnSUBZW8i5XaMjGLdqT4a","domain":"hitbtc.com","twitter":"hitbtc"}
+{"name":"HitBTC","desc":"2","account":"rhL5Va5tDbUUuozS9isvEuv7Uk1uuJaY1T","domain":"hitbtc.com","twitter":"hitbtc","verified":true}
+{"name":"HitBTC","desc":"3","account":"rNUyxNugxv67vhQZZCif2Ru1Hb4APNmwUS","domain":"hitbtc.com","twitter":"hitbtc"}
+{"name":"HitBTC","desc":"4","account":"rLCmrXtyLNSma1g4YPpnwWF664zGaUhMc8","domain":"hitbtc.com","twitter":"hitbtc"}
+{"name":"HitBTC","desc":"5","account":"rwpMvfxoodXggJ1g4qv6MWAPQqWDwQyHUW","domain":"hitbtc.com","twitter":"hitbtc","verified":true}
+{"name":"Happy Kids Dirty Hands","desc":"Cold","account":"rwNyRPLgm86FnzZDgJzikb5buybWqVNhJt","domain":"happykidsdirtyhands.com","twitter":"cranders71","verified":true}
+{"name":"HODL Finance","account":"rawqXp4MnEbwLE99DUdB8L1TTPpNjPER2W","domain":"hodlfinance.io","twitter":"Hodl_Finance","verified":true}
+{"name":"Hotbit","account":"rGzqpy3BaFNcXXqYsKAhFp4HNJGnLFZdnb","domain":"hotbit.io","twitter":"Hotbit_news","verified":true}
+{"name":"Huobi Global","desc":"1","account":"rKoFoX8RveEMP5MgrbKA8R8J7nFi9g2zW4","domain":"hbg.com","twitter":"HuobiGlobal","verified":true}
+{"name":"Huobi Global","desc":"2","account":"rfexLLNpC6dqyLagjV439EyvfqdYNHsWSH","domain":"hbg.com","twitter":"HuobiGlobal"}
+{"name":"iCoinbay","account":"rHaPdopD7SBDrjo37XxwB5QW3EKdYcVu3e","domain":"icoinbay.com","twitter":"iCoinbay_info","verified":true}
+{"name":"IDAX","desc":"1","account":"rG6rxRpkPyi954utDwymA2sc1i9j3VjWkv","domain":"idax.pro","twitter":"IDAXpro","verified":true}
+{"name":"IDAX","desc":"2","account":"rhEYk3yCboeYq9HvnjGALR2aQFQnqaMZSS","domain":"idax.pro","twitter":"IDAXpro"}
+{"name":"imove","account":"rHgmYukwN1LMHRqAoavSLheks8XXhxgxBH","domain":"imove.io","twitter":"imoveofficial","verified":true}
+{"name":"Independent Reserve","account":"r33hypJXDs47LVpmvta7hMW9pR8DYeBtkW","domain":"independentreserve.com","twitter":"indepreserve","verified":true}
+{"name":"Indodax","account":"rwWr7KUZ3ZFwzgaDGjKBysADByzxvohQ3C","domain":"indodax.com","twitter":"indodaxOfficial"}
+{"name":"Instant Bitex","account":"ra8F9YRetgTPP6WXfKdR9w3bNZEVpNpMfM","domain":"instantbitex.com","twitter":"InstantBitex","verified":true}
+{"name":"Instanz","account":"r972cb9cy3Ca4pbEt7MsMvAiPasVYgP2t5","domain":"instanz.com","twitter":"InstanzExchange","verified":true}
+{"name":"Internet Archive","account":"rGeyCsqc6vKXuyTGF39WJxmTRemoV3c97h","domain":"archive.org","twitter": "internetarchive","verified":true}
+{"name":"Koineks","desc":"1","account":"rpVTz6jPYE3HbXX7RmCUMCirBYcfJU2q4j","domain":"koineks.com","twitter":"koineks"}
+{"name":"Koineks","desc":"2","account":"ryBANkk28Mj71jRKAkt13U1X9ubztsGWZ","domain":"koineks.com","twitter":"koineks"}
+{"name":"Koinex","desc":"1","account":"rLdinLq5CJood9wdjY9ZCdgycK8KGevkUj","domain":"koinex.in","twitter":"koinexindia"}
+{"name":"Koinex","desc":"2","account":"rGhssiAZkbAGyHVxEmQuJD1QWs9aDyaB6i","domain":"koinex.in","twitter":"koinexindia"}
+{"name":"Korbit","account":"rBTjeJu1Rvnbq476Y7PDnvnXUeERV9CxEQ","domain":"korbit.co.kr","twitter":"KorbitOfficial"}
+{"name":"Kraken","account":"rLHzPsX6oXkzU2qL12kHCH8G8cnZv1rBJh","domain":"kraken.com","twitter":"krakenfx","verified":true}
+{"name":"Kryptono","desc":"1","account":"rPvTjC1LXsWtt1Rv3CFVWvedqfkryiJSxg","domain":"kryptono.exchange","twitter":"KryptonoEx","verified":true}
+{"name":"Kryptono","desc":"2","account":"rhj9VJ5aE3hAbk23mgpH1PwdCYcUexqokb","domain":"kryptono.exchange","twitter":"KryptonoEx"}
+{"name":"KuCoin","desc":"1","account":"rUW9toSjQkLY6EspdnBJP2paG4hWKmNbMh","domain":"kucoin.com","twitter":"kucoincom","verified":true}
+{"name":"KuCoin","desc":"2","account":"r4pxv9txfQTyVkQUetNmyJqDy7s5fPPVfB","domain":"kucoin.com","twitter":"kucoincom"}
+{"name":"KuCoin","desc":"3","account":"rhKrvXY8zRvVyDLT4nfXB86HyhqQyvcr4c","domain":"kucoin.com","twitter":"kucoincom"}
+{"name":"Kuna","account":"rMtb2JEX8xmcgSKxCB7aZPDyzyVhbM2RzV","domain":"kuna.io","twitter":"KunaExchange","verified":true}
+{"name":"LakeBTC","account":"rHcajWQJmM2MejujoSog5yeQGurN84DPAJ","domain":"lakebtc.com","twitter":"LakeBTC","verified":true}
+{"name":"Lazur","account":"rPwBYEh4EtJxeSq9XeKyEjdGEZYMv6wAiC","domain":"lazur.pro","verified":true}
+{"name":"LBX","account":"r4E49HU6CTHyYMmsYt3F1ar1q5W89t3hfQ","domain":"lbx.com","twitter":"LBXSocial","verified":true}
+{"name":"Liquid","account":"rHQ6kEtVUPk6mK9XKnjRoudenoHzJ8ZL9p","domain":"liquid.com","twitter":"liquid_global","verified":true}
+{"name":"LiveCoin","account":"r4zsY82bVippLpS7K7ru5xUReyvX1JQktX","domain":"livecoin.net","twitter":"livecoin_net","verified":true}
+{"name":"LuckyFish","account":"rQL3rmtijDT33ytPXdJd41bG3Rpa2ZyfqN","domain":"luckyfish.io","twitter":"luckyfishio","verified":true}
+{"name":"Luckygames","account":"rK7LSKygRUu9y9xcuhkWbcMRKRF5HVWwVL","domain":"luckygames.io","twitter":"luckygamesio"}
+{"name":"MAX Exchange","account":"rMZdHB6uHvAEPzzKdsWYyhgyLkhFNjuwih","domain":"max.maicoin.com","twitter":"Max_exch","verified":true}
+{"name":"MBAex","desc":"1","account":"rUhZf2mksmqXi5dD9BCPdtBYu8gZ7FejUV","domain":"mbaex.com","twitter":"MBAexOfficial","verified":true}
+{"name":"MoneyToken","account":"r48ur7yUTnDU5kTZ3jQLWhED8nWLLM3AWH","domain":"moneytoken.com","twitter":"MoneyToken","verified":true}
+{"name":"MoonTrade","account":"rNriUSXDqVGWkdmFc2oADKqKLy4G2p85Fq","domain":"moontrade.org","twitter":"MoonTradeX","verified":true}
+{"name":"Mundax","desc":"1","account":"rEsbmFwZaqBiKTZdXA6inK2GwXVXvp736u","domain":"mundoexchange.io","verified":true}
+{"name":"Mundax","desc":"2","account":"rHbQDDU7QFnQ3isWtMYzPaURGkC2E9Wbb7","domain":"mundoexchange.io"}
+{"name":"Mundax","desc":"3","account":"rJcjTsFXgM5uMhBUJPfjTknknwjbXxsob","domain":"mundoexchange.io"}
+{"name":"NAGA","desc":"1","account":"rG5p7nE9fYojqRGUNbDjq1ypMhLraGC3oh","domain":"naga.com","twitter":"nagainvesting","verified":true}
+{"name":"NAGA","desc":"2","account":"rNAGAiqt68FfToorehrYAZZyQiZ2QdCSrD","domain":"naga.com","twitter":"nagainvesting","verified":true}
+{"name":"Nexo","desc":"1","account":"rwADc5YVbAfDmRyjbqPoG48H5jmnbD2xV5","domain":"nexo.io","twitter":"NexoFinance"}
+{"name":"Nexo","desc":"2","account":"rnuPTVikw8HKK4hBGCtnq2J2433VYaZPZQ","domain":"nexo.io","twitter":"NexoFinance","verified":true}
+{"name":"NLexch","account":"rDSY2gUCDqCYdtAPms8kz4ZSJiTnZQ6TvM","domain":"nlexch.com","twitter":"NLexch","verified":true}
+{"name":"Nobitex","account":"rwRmyGRoJkHKtojaC8SH2wxsnB2q3yNopB","domain":"nobitex.market","twitter":"nobitexmarket","verified":true}
+{"name":"Nuex","account":"rEgs9hHVws4hDREGGEAu4i4SbggAEw6gBm","domain":"nuex.com","verified":true}
+{"name":"NuMoney","account":"rDnhaeLUhYGViyCrGRUVezkUyR1kMEEbt7","domain":"numoney.exchange","twitter":"NuMoney_Store","verified":true}
+{"name":"OKEx","account":"rUzWJkXyEtT8ekSSxkBYPqCvHpngcy6Fks","domain":"www.okex.com","twitter":"OKEx","verified":true}
+{"name":"OMGFIN","account":"rQafLzuWB4PQYAaAuZ3FLBVi1iuGvx9uBN","domain":"omgfin.com","twitter":"omgfin","verified":true}
+{"name":"OOOBTC","account":"rL1vJjoQfKhfCYUXHdAqXYVUaoU59adV22","domain":"ooobtc.com","twitter":"ooobtcExchange","verified":true}
+{"name":"OpenLedger","desc":"DEX","account":"rNEn8kHBkNWf85CQaZhpJvkkYaZYHcLuUT","domain":"dex.openledger.io","twitter":"OpenLedgerDEX","verified":true}
+{"name":"Orionx","account":"rhQrkgoV4uza557mW6HbBWMtTDkB7u5yrs","domain":"orionx.com","twitter":"orionx","verified":true}
+{"name":"OTCBTC","account":"r4YC1aD49aHtm33Az1vxhfBbLp3VCkvEuT","domain":"otcbtc.com","twitter":"otcbtc","verified":true}
+{"name":"Ovis","account":"r4vBYmqhdkXBNRPnvAn5boZSPfWB95eWmZ","domain":"ovis.com.tr","twitter":"oviscomtr","verified":true}
+{"name":"Palmex","account":"rBCC5xrxtNaepXFUuYhhuga5ez1zJnMW9E","domain":"palmex.ae","twitter":"PalmExchange","verified":true}
+{"name":"Paribu","account":"rKdDdrbU3MedsG7VtBAir4RjC35tzjDZnr","domain":"paribu.com","twitter":"ParibuCom"}
+{"name":"PayBis","account":"rKT1BPiQ2t1qsPUX5jg3ZPZNWMZoQw2fm6","domain":"paybis.com","twitter":"PayBis_com"}
+{"name":"PayKassa","account":"rP8VvqTDeMtC7Vmp85CVvqJ5BH1QF3yvj3","domain":"paykassa.pro","twitter":"PaykassaP","verified":true}
+{"name":"PHOBOS Platform","account":"ra5ER42K37opCxDq1Tre3Pd4oRVbncosoL","domain":"phobosnode.com","twitter":"Solstice_Info","verified":true}
+{"name":"PLAAK","account":"rL1kgDqaQSvoxjTt8ibAi7T4rEKP7pS9ei","domain":"plaak.io","twitter":"plaakcommunity","verified":true}
+{"name":"Poloniex","account":"rDCgaaSBAWYfsxUYhCk1n26Na7x8PQGmkq","domain":"poloniex.com","twitter":"Poloniex"}
+{"name":"Polyx","account":"rUbPReuLqkRdjx3RQFZ6JaEBtCNZgX5JhT","domain":"polyx.net","twitter":"Polyxchange","verified":true}
+{"name":"Private Internet Access","account":"r9EUYx41zx3audeARUwpkDF7VuwcmbwYTU","domain":"privateinternetaccess.com","twitter":"buyvpnservice"}
+{"name":"ProBit","desc":"1","account":"rJChk8e71gxVhyJSr1srzZxWhVisWMMYKZ","domain":"probit.com","twitter":"ProBit_Exchange","verified":true}
+{"name":"ProBit","desc":"2","account":"rsA9ijHjo7hAkitc9GsXsiwXzqGs7eoeqr","domain":"probit.com","twitter":"ProBit_Exchange"}
+{"name":"Purcow","account":"rDajxunnyYo7pGbFFfkQdPpenoQPYUEg2d","domain":"purcow.io","twitter":"purcow","verified":true}
+{"name":"Quidax","desc":"1","account":"rBwdSqfFMBYUazUsv9pV1ZpHTG2nZcaNJv","domain":"quidax.com","twitter":"QuidaxHQ","verified":true}
+{"name":"Quidax","desc":"2","account":"rnNQs4WAKUHes7kJtqqRiU3Wq9q1pHuDEt","domain":"quidax.com","twitter":"QuidaxHQ","verified":true}
+{"name":"Remitano","account":"rLpumSZQNJ6Cve7hfQcdkG9rJbJhkSV8AD","domain":"remitano.com","twitter":"remitano","verified":true}
+{"name":"Rfinex","account":"rfLFX6mhkWGZDumv6km14N9RbyWtFvdyGC","domain":"rfinex.com","twitter":"Rfinex_Exchange","verified":true}
+{"name":"RightBTC","desc":"1","account":"rGNmVMG9KwVf9XvfNuEHb2dRLNhJqa6BFD","domain":"rightbtc.com","twitter":"Rightbtc_","verified":true}
+{"name":"RightBTC","desc":"2","account":"rPks48owYx8VfLcXQ4qBKNhFGKxe5Z9sPC","domain":"rightbtc.com","twitter":"Rightbtc_"}
+{"name":"Ripple","desc":"","account":"r3kmLJN5D28dHuH8vZNUZpMC43pEHpaocV","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"1","account":"rBg2FuZT91C52Nny68houguJ4vt5x1o91m","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"2","account":"r4LxkCUXYTCUgwquN3BnsUxFacoVLjGFyF","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"3","account":"rNz6HfHBA3nReSbVPwM6YE39MQoeS5SqLU","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"4","account":"rffYK32pnicbmUvodKsLxTyQFJyEb23gaZ","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"5","account":"rBzM1P5zH3cssjqKqUT6uuxLWQAZkGmrrY","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"6","account":"r3F5NsyiGwVYs2Rs3cCcrVw4t5wZP2ZxRr","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"7","account":"rjWXZ8rKLz7B3w4nueAA12h9JmRDbHuuW","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"8","account":"rpQhAu8n7WwwNPFeqXPDVZyNx8ShAQrYZU","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"9","account":"r9NpyVfLfUG8hatuCCHKzosyDtKnBdsEN3","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"10","account":"r9UUEXn3cx2seufBkDa8F86usfjWM6HiYp","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"11","account":"rB3WNZc45gxzW31zxfXdkx8HusAhoqscPn","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"12","account":"rDdXiA3M4mYTQ4cFpWkVXfc2UaAXCFWeCK","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"13","account":"rKDvgGUsNPZxsgmoemfrgXPS2Not4co2op","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"14","account":"rKwJaGmB5Hz24Qs2iyCaTdUuL1WsEXUWy5","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"15","account":"rN8pqRwLYuuvY7pUHurybPC8P6rLqVsu6o","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"16","account":"rNASJdZjY9dToHnNURi3HAUku3duPwbtD1","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"17","account":"rU9qmGM4Y6WWDhiNzkwVKBwwatcoE7YL1T","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"18","account":"rfWPPQBYqYmoFMdVnjzXCagJbz5uajSBXL","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"19","account":"rh2EsAe2xVE71ZBjx7oEL2zpD4zmSs3sY9","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"20","account":"rhEwsCWDCVxDiKxGJAKM6VuXC8EFtJP5gQ","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"21","account":"rncKvRcdDq9hVJpdLdTcKoxsS3NSkXsvfM","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"22","account":"rp6aTJmW3nq1aKt3Jmuz4DPRxksT5PBjpH","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"23","account":"rsjFB8mPWqiZgPUaVh8XYqdfa59PE2d5LG","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"24","account":"rw2hzLZgiQ9q62KCuaTWuFHWfiX7JWg3wY","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"25","account":"rDqGA2GfveHypDguQ1KXrJzYymFZmKxEsF","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"26","account":"rGKHDyj4L6pc7DzRB6LWCR4YfZfzXj2Bdh","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"27","account":"rHGfmgv54kpc3QCZGRXEQKUhLPndbasbQr","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"28","account":"rMhkqz3DeU7GUUJKGZofusbrTwZe6bDyb1","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"29","account":"rMQ98K56yXJbDGv49ZSmW51sLn94Xe1mu1","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"30","account":"r4MoybfgCHDoUByYyMejimaX6a8CEtWtav","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"31","account":"r93oSNBKuFjuKt8GxhF8VYaGzzwsNDPaX5","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"32","account":"rDbWJ9C7uExThZYAwV8m6LsZ5YSX3sa6US","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"33","account":"rLAdBWnD6qufUTByWJXyBtC4hR3GSXaEbn","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"34","account":"rfakn148pevQPbpn38Hnn1mk7WxfdHdfAf","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"35","account":"rhyp1uMC9Xyj3Px8amUH3xVv6tbjYJkojs","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"36","account":"rDahLhHJaowRYn4hRkS9S2YpAeiTR8mjBF","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"37","account":"rEi8BzmV1mMZ9pN1nUd111mmX3zuZuvw8W","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"38","account":"rGtASNaiZMC2Xvjg2bR6b816TUz1gHgbZk","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"39","account":"rKveEyR1SrkWbJX214xcfH43ZsoGMb3PEv","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"40","account":"rNuF65SoNFRgi7KomddPeSpLhdB2Y7RnsN","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"41","account":"rGo1CzUcLiVBEQSqcf32pz5nEm38jTbhtk","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"42","account":"rU3hoiEM3uQb7ihCZiLJpk6Hm2UDYNiXSq","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"43","account":"rNKpohy2aF3ZJg27QLAhQHT5muoXYNrzSu","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"44","account":"rN6mwh6XAtwNH53sFLWySfMsqPcW1mzEnb","domain":"ripple.com","twitter":"Ripple"}
+{"name":"Ripple","desc":"45","account":"rJAMeVrUyezc5TVrzwq7HUM4VzW4xUYZzR","domain":"ripple.com","twitter":"Ripple"}
+{"name":"rippleitin.nz","account":"rEE1JVZrpEjgZibGddhVv4ESmFpcxnjNUv","domain":"rippleitin.nz","twitter":"rippleitinNZ","verified":true}
+{"name":"SecondBTC","account":"rw1NMXosYqooC4J8UGsA5neKnTLa7CrNqb","domain":"secondbtc.com","twitter":"secondbtcex","verified":true}
+{"name":"ShapeShift","account":"rwfGzgd4bUStS9gA5xUhCmg1J86TMtmGMo","domain":"shapeshift.io","twitter":"ShapeShift_io"}
+{"name":"SistemKoin","account":"rf4wZgPXBB2j7PWnsuFhkuidmTN75ZnudP","domain":"sistemkoin.com","twitter":"Sistemkoin","verified":true}
+{"name":"Stellarport","account":"rJY2W6QRaqbcmnYdzG3qdK1kYz5Ww6tXVk","domain":"stellarport.io","twitter":"stellarportio","verified":true}
+{"name":"STEX","account":"rUh9cVv8FWE6LmJaCz5MEinGEN2GovcZaa","domain":"stex.com","twitter":"StexExchangeR","verified":true}
+{"name":"Stronghold","account":"r4qj7xd6eJDt6Jv7VVXZ2mLGDpMyiQz8i3","domain":"stronghold.co","twitter":"strongholdxchg","verified":true}
+{"name":"The XRP Effect","account":"ramfp11hEeE6oGjHoAU94Uh1ma3hAMEU3c","domain":"thexrpeffect.com","twitter":"thexrpeffect"}
+{"name":"Toast Wallet","account":"rToastMYRQh8boeo5Ys1CnPySmt3c9x3Y","domain":"toastwallet.com","twitter":"ToastWallet"}
+{"name":"Tok","desc":"1","account":"rGueyQFkj4XT74wfpCqasTACo6FBQfjwCx","domain":"tok.com","twitter":"Tok_Exchange","verified":true}
+{"name":"Tok","desc":"2","account":"rQrE1mAKBHy2BDjBXze1kLHMNxfpf31kc","domain":"tok.com","twitter":"Tok_Exchange"}
+{"name":"Tokens","account":"rPkitTzAi3KahtGAbdCuq3XxZtDjRCG3U8","domain":"tokens.net","twitter":"TokensNet","verified":true}
+{"name":"Tokocrypto","account":"rBg33rYWkR9G2jDKZKmCsGd1wZrGoL83Lb","domain":"tokocrypto.com","twitter":"TokoCrypto","verified":true}
+{"name":"TradeSatoshi","account":"r9VoqvUwZipzbVfMXzDkSBvdv38CapKywg","domain":"tradesatoshi.com","twitter":"TradeSatoshi","verified":true}
+{"name":"Triple Dice Exchange","desc":"1","account":"rUjxty1WWLwX1evhKf3C2XNZDMcXEZ9ToJ","domain":"mydicewallet.com","twitter":"DiceWallet","verified":true}
+{"name":"Triple Dice Exchange","desc":"2","account":"rpiWoLNdX6KLrM66Hzp71gLc6vwYVgXVXL","domain":"mydicewallet.com","twitter":"DiceWallet"}
+{"name":"Triple Dice Exchange","desc":"3","account":"rMYYUjFAxqkyKzyXkYNG2K5H7pESUri4t3","domain":"mydicewallet.com","twitter":"DiceWallet"}
+{"name":"Unodax","desc":"1","account":"rLLGjxCdTKRMBSSC6ELAKq9NPrGEipkeGH","domain":"unodax.com","twitter":"Unocoin","verified":true}
+{"name":"Unodax","desc":"2","account":"rNEWtRNMMwsdky5Lu7wkzFMYwiiVxaz6SG","domain":"unodax.com","twitter":"Unocoin"}
+{"name":"UPbit","desc":"1","account":"rNzT5xopUaJK8L7mHbThUGKaHoct62dNBC","domain":"upbit.com"}
+{"name":"UPbit","desc":"2","account":"rN9qNpgnBaZwqCg8CvUZRPqCcPPY7wfWep","domain":"upbit.com"}
+{"name":"Uphold","desc":"1","account":"rKfzfrk1RsUxWmHimWyNwk8AoWHoFneu4m","domain":"uphold.com","twitter":"UpholdInc"}
+{"name":"Uphold","desc":"2","account":"rQrQMKhcw3WnptGeWiYSwX5Tz3otyJqPnq","domain":"uphold.com","twitter":"UpholdInc","verified":true}
+{"name":"ValueBit","account":"rpyXM7w2zYX53yNK25wQz4sZsjqC23Ckdr","domain":"valuebit.com","twitter":"Valuebittrade","verified":true}
+{"name":"Vebitcoin","desc":"1","account":"rNbxjMxewgMQCc4TFF2yYwBoVbCCbhZF5c","domain":"vebitcoin.com","twitter":"vebitcoincom"}
+{"name":"Vebitcoin","desc":"2","account":"r48kptkxw5gCs2bNBPVdC93ytWqYw7xX5Q","domain":"vebitcoin.com","twitter":"vebitcoincom","verified":true}
+{"name":"VELIC","account":"rLfm8tMVfpsjE5wNaA2zMARtMCVXAXhhia","domain":"velic.io","twitter":"velicfinancial","verified":true}
+{"name":"WazirX","desc":"1","account":"rwuAm7XdcP3SBwgJrVthCvCzU7kETJUUit","domain":"wazirx.com","twitter":"WazirXIndia","verified":true}
+{"name":"WazirX","desc":"2","account":"rJXcrnAS8XoBwjvd5VrShrLMY8buPuiuC5","domain":"wazirx.com","twitter":"WazirXIndia"}
+{"name":"WietseWind","desc":"MultiProject Cold Storage","account":"rpePPeRpC89vpCY3CDzhzMCs78nPoNnAKm","domain":"wietse.com","twitter":"WietseWind"}
+{"name":"Willow House","account":"rDDKHn5bFWoZnMFpzPzGBamC42oU9NJPUB","domain":"willowhouse.org","twitter":"WillowHouse","verified":true}
+{"name":"Wipple","account":"rhkvfNv6tzh6CMfpXZdX2t7HGN2ZX46Tco","domain":"wipple.devnull.network","twitter":"DevNullProd","verified":true}
+{"name":"Wirex","desc":"1","account":"rXieaAC3nevTKgVu2SYoShjTCS2Tfczqx","domain":"wirexapp.com","twitter":"wirexapp","verified":true}
+{"name":"Wirex","desc":"2","account":"rfkH7EuS1XcSkB9pocy1R6T8F4CsNYixYU","domain":"wirexapp.com","twitter":"wirexapp"}
+{"name":"Worldcore","account":"rnRGWUhwZrGkSxGoPfTTMFwZhDiPyySWVD","domain":"worldcore.trade","twitter":"worldcoresocial","verified":true}
+{"name":"XCOEX","account":"rDgnUtf2ECr7XrczPZ1bivhDiqRCy2fvoR","domain":"xcoex.com","twitter":"xcoex","verified":true}
+{"name":"XCH4NGE","desc":"1","account":"rsA8rKzZhdAoKDATLLcsGuygyJ1F9JtVqV","domain":"xch4nge.com","twitter":"xch4nge","verified":true}
+{"name":"XCH4NGE","desc":"2","account":"rLwXw272jVgtk1Ar5EdnrZULKaKQCWAenQ","domain":"xch4nge.com","twitter":"xch4nge"}
+{"name":"xCrypto🚀Crash","account":"rK9dBkad6fQ2qkvCJuyCqCGQrcF1fLhoA9","domain":"xcryptocrash.com","twitter":"xcryptocrash","verified":true}
+{"name":"XRParrot","account":"rp65fD8N8fWxhMXwQN1CYVwYPeVofmh3S1","domain":"www.xrparrot.com","twitter":"XRParrot"}
+{"name":"XRP Community Fund","account":"rpEPpEr5ED6NzykYunBEJJoMdfjp1t3uf4","domain":"communityfund.xrptipbot.com","twitter":"XRP_Fund","verified":true}
+{"name":"XRP Scan","account":"rscanPocB2DeRgLUD6S3vhZjeaQ4h21c9j","domain":"xrpscan.com","twitter":"xrpscan","verified":true}
+{"name":"XRP Text","desc":"SMS","account":"rQHYSEyxX3GKK3F6sXRvdd2NHhUqaxtC6F","domain":"sms.xrptext.com","verified":true}
+{"name":"XRP Text","desc":"Telegram","account":"rNEtcAT7zRFd2MXc38ja4ng3ddEVkk22Ax","domain":"telegram.xrptext.com","twitter":"baltazar223","verified":true}
+{"name":"XRP Tip Bot","account":"rPEPPER7kfTD9w2To4CQk6UCfuHM9c6GDY","domain":"xrptipbot.com","twitter":"xrptipbot","verified":true}
+{"name":"XRP Tip Bot","desc":"ILP Settlement","account":"rPEpPeRd6bp6tHxSVyNGVNiSaZK2KSsc68","domain":"xrptipbot.com","twitter":"xrptipbot","verified":true}
+{"name":"XRP United","desc":"1","account":"rJY2KYfzkrWKikHnhH45d5n2YJHSKbTp2o","domain":"xrpunited.com","twitter":"xrpunited","verified":true}
+{"name":"XRP United","desc":"2","account":"r3HrZu2zweSjb7s3ZYHbB4C8UtBf1E59m1","domain":"xrpunited.com","twitter":"xrpunited"}
+{"name":"XRP United","desc":"3","account":"rHYJuExR1TDVAKj4cd7tyDntaXR7zoz6ch","domain":"xrpunited.com","twitter":"xrpunited"}
+{"name":"Yobit","account":"rPBMDP7CGiKzMvPx6SsCGgeDsrsUyv1K1b","domain":"yobit.net","twitter":"YobitExchange","verified":true}
+{"name":"YouHodler","account":"rDhmyBh4JwDAtXyRZDarNgg52UcLLRoGje","domain":"youhodler.com","twitter":"YouHodler","verified":true}
+{"name":"Zipmex","desc":"1","account":"rpwx6G3Dd1uziyZBw3s9s3aMenmdhTDdss","domain":"zipmex.com","twitter":"zipmex","verified":true}
+{"name":"Zipmex","desc":"2","account":"rpoSVDeHqAc16TxKGz5efLZg6Z9BQqmcCW","domain":"zipmex.com","twitter":"zipmex"}
