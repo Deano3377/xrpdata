@@ -1,3 +1,8 @@
+<aside class="warning">
+Note: This project is now deprecated. Please see our <a href="https://docs.xrpscan.com/api-doc.html#get-names">Get Names API</a>.
+</aside>
+
+
 # XRP Data Project
 
 ## About
